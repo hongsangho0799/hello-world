@@ -1,0 +1,8 @@
+#define	KIND_START_NUMBER				0		// [8/13/2008 Mina] 캐릭터 KIND 정의 시작부분을 나타낸다.
+#define KIND_HERO1						1		// 견이
+#define KIND_HEROINE1					2		// 연이
+#define KIND_HERO2						3		// 신이
+#define KIND_HEROUP1					4		// (서양 남캐릭)	// 리카//鮫捏켕
+#define KIND_HEROUP2					5		// (서양 여캐릭)	// 시아//
+#define KIND_HEROUP3					6		// (일판 남캐릭)	// 달이//땜捏켕
+#define KIND_HEROUP4					7		// (일판 여캐릭)	// 별이//
