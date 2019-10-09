@@ -6,3 +6,6 @@
 #define KIND_HEROUP2					5		// (서양 여캐릭)	// 시아//
 #define KIND_HEROUP3					6		// (일판 남캐릭)	// 달이//땜捏켕
 #define KIND_HEROUP4					7		// (일판 여캐릭)	// 별이//
+
+
+/test 2019
